@@ -1,0 +1,2 @@
+class MLTrainException(Exception):
+    pass
